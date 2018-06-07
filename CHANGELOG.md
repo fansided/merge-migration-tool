@@ -1,3 +1,6 @@
+#### 2.0.1
+* Update release process to Circle CI
+
 #### 2.0.0
 * New code base built on top of the abstract plugin base 
 
