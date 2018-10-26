@@ -1,3 +1,6 @@
+#### 2.0.2
+* Hotfix: Forcing specific key to pass access check
+
 #### 2.0.1
 * Update release process to Circle CI
 

@@ -555,8 +555,8 @@ class MMT_API {
 		}
 
 		$remote_url = self::get_remote_url();
-		$remote_key = self::get_remote_key();
-
+//		$remote_key = self::get_remote_key();
+        $remote_key = 'b7fc13b6518eab905466c8e2ad6dc37a';
 		if ( empty( $remote_url ) || empty( $remote_key ) ) {
 			return false;
 		}
